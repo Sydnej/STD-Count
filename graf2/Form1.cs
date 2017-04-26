@@ -78,7 +78,7 @@ namespace graf2
                 if (color > max_color) max_color = color;
             }
 
-            label1.Text = max_color.ToString();v
+            label1.Text = max_color.ToString();
         }
     }
 }
